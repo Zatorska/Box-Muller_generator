@@ -1,3 +1,5 @@
+# Box-Muller generator
+
 This project is an answer for following task:
 >_"The company specializing in the mining industry deicided to invest in data analytical machines. There is no collected data, but company wants to have results of analysis ASAP. It is therefore necessary to generate random numbers which let us check if machines works correctly."_
 
