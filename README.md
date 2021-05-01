@@ -17,5 +17,5 @@ In simply words, it just takes two samples from the uniform distribution on the 
 
 ![](Images/bm1.png)
 
-Wery interesting Box-Muller visualisation you can find [here](https://upload.wikimedia.org/wikipedia/commons/1/1f/Box-Muller_transform_visualisation.svg).  
+Very interesting Box-Muller visualisation you can find [here](https://upload.wikimedia.org/wikipedia/commons/1/1f/Box-Muller_transform_visualisation.svg).  
 More informations about Box-Muller transformation you can find [here](https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform).
